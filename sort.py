@@ -7,7 +7,6 @@ for i in range (a):
     e.append(c[i])
 asc=0
 dsc=0
-#ascending
 for i in range(a-1):
     for j in range(0, a-i-1):
  
