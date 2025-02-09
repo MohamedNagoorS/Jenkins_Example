@@ -26,4 +26,3 @@ if(asc<dsc):
     print (asc)
 else:
     print(dsc)
-print("Hi")
